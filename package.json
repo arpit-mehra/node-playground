@@ -1,0 +1,22 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "playground for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpit-mehra/node-playground.git"
+  },
+  "author": "Arpit Mehra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arpit-mehra/node-playground/issues"
+  },
+  "homepage": "https://github.com/arpit-mehra/node-playground#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
